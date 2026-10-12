@@ -1,0 +1,17 @@
+{
+  "name": "hustle-marketers-google-ads-scripts",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node --test test/scripts.test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "Ishant Sharma <https://hustlemarketers.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hustlemarketers-art/google-ads-scripts.git"
+  }
+}
