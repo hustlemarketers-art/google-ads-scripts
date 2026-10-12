@@ -1,5 +1,7 @@
 # Google Ads Scripts for PPC Audits and Reporting
 
+[![Tests](https://github.com/hustlemarketers-art/google-ads-scripts/actions/workflows/tests.yml/badge.svg)](https://github.com/hustlemarketers-art/google-ads-scripts/actions/workflows/tests.yml) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 Five free, read-only Google Ads scripts I use to audit and monitor accounts: a campaign performance audit, a search term report that includes Performance Max search terms, Shopping product performance, monthly budget pacing and a broken final URL checker.
 
 Each script uses GAQL through `AdsApp.search()`, runs on its own (paste one file into one account) and **never changes the account**. No bids, budgets, negatives, product exclusions or tracking settings are touched.
